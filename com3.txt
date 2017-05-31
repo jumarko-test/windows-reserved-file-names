@@ -1,0 +1,2 @@
+The name 'com3' is reserved on windows.
+See http://kizu514.com/blog/forbidden-file-names-on-windows-10/.
